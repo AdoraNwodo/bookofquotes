@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1039090535727",
+    "firebase_url": "https://bookofquotes-97107.firebaseio.com",
+    "project_id": "bookofquotes-97107",
+    "storage_bucket": "bookofquotes-97107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039090535727:android:6317aad5062f06d9",
+        "android_client_info": {
+          "package_name": "com.adoranwodo.bookofquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039090535727-4e0hkn1o920td5ddvhnhhfpit06ii3ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adoranwodo.bookofquotes",
+            "certificate_hash": "72486e75b9af1957f13986d258fd571a0a3d7d4a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAboUoadlqFMd2-gbA5nzttgl_dY0dad00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039090535727-ihpq1ocfb3fmv0o9sge39inrgoneg6p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
