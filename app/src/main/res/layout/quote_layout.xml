@@ -22,6 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textStyle="italic"
+                android:text="This is a Quote"
                 android:textSize="17sp"
         />
 
@@ -31,6 +32,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="6dp"
                 android:textStyle="bold"
+                android:text="Author Name"
                 android:textColor="@android:color/black"
                 android:textSize="12sp"
         />
